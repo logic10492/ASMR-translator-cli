@@ -1,0 +1,5 @@
+.venv/
+inputs/
+outputs/
+script_jp/
+__pycache__/
